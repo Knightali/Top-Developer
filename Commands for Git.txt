@@ -1,0 +1,10 @@
+git touch .gitignore
+git config --global user.name KnightAli
+git config --global user.email ahmad123ali13579@gmail.com
+git init
+git add .
+git status
+git commit -m " Initial commit"
+git status
+git remote add orign git@github.com:Knightali/Top-Developer.git
+git push orign master
